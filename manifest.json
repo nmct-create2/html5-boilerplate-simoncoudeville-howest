@@ -1,0 +1,11 @@
+{
+  "name": "Simon Coudeville",
+  "short_name": "Simon",
+  "icons": [{
+    "src": "google-touch-icon.png",
+    "sizes": "512x512"
+  }],
+  "theme_color": "#44C9F6",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
